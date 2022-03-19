@@ -1,6 +1,16 @@
 .App {
+  text-align: left;
+}
+
+body{
+  color: white;
+  background-image: url('./the-games-bg.jpg');
+  overflow: hidden;
+}
+.center {
   text-align: center;
 }
+
 
 .App-logo {
   height: 40vmin;
